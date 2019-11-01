@@ -23,9 +23,9 @@ Create one R script called "run_analysis.R" that does the following:
 
 ### Outcome
 This project resulted the following outcome:
-1. a tidy data set called "my_tidy_data.txt", derived on the original data
-2. An R-script called "run_analysis.R" for the creation of the tidy data set.
-3. a code book called "CodeBook.md" that describes the variables, the data, and any transformations or work that are performed to clean up the data 
+1. a tidy data set called "[my_tidy_data.txt](https://github.com/Velhorst/GetAndCleanDataProject/blob/master/my_tidy_data.txt)", derived on the original data
+2. An R-script called "[run_analysis.R](https://github.com/Velhorst/GetAndCleanDataProject/blob/master/run_analysis.R)" for the creation of the tidy data set.
+3. a code book called "[CodeBook.md](https://github.com/Velhorst/GetAndCleanDataProject/blob/master/CodeBook.md)" that describes the variables, the data, and any transformations or work that are performed to clean up the data 
 
 
 
